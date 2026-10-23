@@ -2,6 +2,26 @@
 
 Laravel 13 employee payroll and HR management app. Independent Project 05 in the Laravel Projects Factory Part 2 series.
 
+## Screenshots
+
+### Application Dashboard
+![Application dashboard](docs/screenshots/02_dashboard.png)
+
+### Employee Directory & Profiles
+![Employee directory](docs/screenshots/03_employees.png)
+
+### Payroll Period Runs
+![Payroll runs](docs/screenshots/04_payroll_runs.png)
+
+### Calculation Details & Audit Breakdown
+![Payroll breakdown and approval](docs/screenshots/05_payroll_details.png)
+
+### Self-Service Printable Payslip
+![Printable payslip](docs/screenshots/06_payslip.png)
+
+### Secure Authentication & Access Control
+![Authentication](docs/screenshots/01_login.png)
+
 ## Features
 
 - Employee profiles, departments, job positions, employment status, optional account linking.
