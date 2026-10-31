@@ -4,23 +4,12 @@ Repository: https://github.com/0xyz-exe/employee-payroll-laravel
 
 ## Screenshots
 
-### Application Dashboard
-![Application dashboard](docs/screenshots/01_dashboard.png)
-
-### Employee Directory & Profiles
-![Employee directory](docs/screenshots/02_employees.png)
-
-### Payroll Period Runs
-![Payroll runs](docs/screenshots/03_payroll_runs.png)
-
-### Calculation Details & Audit Breakdown
-![Payroll breakdown and approval](docs/screenshots/04_payroll_details.png)
-
-### Self-Service Printable Payslip
-![Printable payslip](docs/screenshots/05_payslip.png)
-
-### Secure Authentication & Access Control
-![Authentication](docs/screenshots/06_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Ikhtisar Periode Penggajian & Kalkulator Draf**<br>Antarmuka kalkulasi draf payroll otomatis berdasarkan komponen gaji efektif dan rekap kehadiran/lembur | ![Ikhtisar Periode Penggajian & Kalkulator Draf](docs/screenshots/01-payroll-periods-overview.png) |
+| **Rincian Payroll & Audit Penggajian Karyawan**<br>Tabel komparasi gaji kotor, potongan, gaji bersih karyawan, kontrol ekspor CSV, dan riwayat audit perubahan status | ![Rincian Payroll & Audit Penggajian Karyawan](docs/screenshots/02-payroll-run-breakdown.png) |
+| **Slip Gaji Karyawan Siap Cetak (Payslip)**<br>Dokumen slip gaji resmi dengan detail rincian gaji pokok, tunjangan, lembur, pemotongan, dan total bayar bersih | ![Slip Gaji Karyawan Siap Cetak](docs/screenshots/03-employee-payslip-document.png) |
+| **Direktori Karyawan & Struktur Kompensasi**<br>Katalog data karyawan terintegrasi dengan departemen, jabatan kerja, status kepegawaian aktif, dan manajemen tunjangan | ![Direktori Karyawan & Struktur Kompensasi](docs/screenshots/04-employee-directory-compensation.png) |
 
 ## Features
 
